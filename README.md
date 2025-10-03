@@ -1,4 +1,4 @@
 - Name: Zachary Gestring
-- Photo: [My Photo]
+- Photo: ![My Photo](https://github.com/ZachGestring/RCOS-Git-Lab-Part-1/blob/master/NoBackgroundCropped.png)
 - Graduating Year: 2025
 - Project: Engineer-Matchcraft
