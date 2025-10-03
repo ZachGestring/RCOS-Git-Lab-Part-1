@@ -1,1 +1,4 @@
-this is my README file
+- Name: Zachary Gestring
+- Photo: [My Photo]
+- Graduating Year: 2025
+- Project: Engineer-Matchcraft
