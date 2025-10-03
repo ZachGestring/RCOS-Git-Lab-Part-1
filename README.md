@@ -1,4 +1,4 @@
 - Name: Zachary Gestring
-- Photo: [My Photo]
+- Photo: (My Photo)[NoBackgroundCropped.png]
 - Graduating Year: 2025
 - Project: Engineer-Matchcraft
